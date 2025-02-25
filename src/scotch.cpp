@@ -18,7 +18,7 @@ int main() {
 	SCOTCH_Graph graphExemple;
 
 	// Basic usage of scotch
-	SCOTCH_Strat strat ; 
+	SCOTCH_Strat strat; 
 	// different strats : 
 		// Glogab flags :
 		//	-	SCOTCH_STRATDEFAULT
